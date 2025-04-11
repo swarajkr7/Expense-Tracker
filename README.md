@@ -30,7 +30,7 @@ This is a personal expense tracker written in Python designed for students to de
 
 ### 1. Clone the repository or download the ZIP
 ```bash
-git clone https://github.com/yourusername/ExpenseTracker.git
+git clone https://github.com/swarajkr7/Expense-Tracker.git
 cd ExpenseTracker
 ```
 
