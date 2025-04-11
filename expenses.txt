@@ -1,0 +1,2 @@
+swarajkr1,Lunch,200,2025-04-11
+swarajkr1,Movie,500,2025-04-11
