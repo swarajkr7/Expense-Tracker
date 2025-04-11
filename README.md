@@ -20,7 +20,6 @@ This is a personal expense tracker written in Python designed for students to de
 - ✅ Filter Expenses by Date Range
 - ✅ Pie Chart of Category-wise Expenses (`matplotlib`)
 - ✅ Export Expenses to Excel (`openpyxl`)
-- ✅ Color-enhanced Console Interface (`colorama`)
 - ✅ Data persistence via `expenses.txt` & `users.txt`
 - ✅ Modular code structure (auth.py, summary.py, etc.)
 
